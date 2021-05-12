@@ -1,0 +1,30 @@
+.navbac{
+background-color: aquamarine;
+color: blue;
+}
+.logo {
+height: 8vh;
+border-radius: 50%;
+border: 2px sloid rgb(212, 53, 53);
+}
+.better{
+    color:  rgb(158 158 158);
+    font-weight: 500;
+}
+.space{
+    margin-left: 5px;
+}
+.coro{
+    height: 55vh;
+}
+.impactt{
+    
+    font-weight: 800;
+    text-shadow: 1px 1px 1px black;
+}
+.lc{
+    border-radius: 5px;
+}
+.marg{
+  margin-top: 35px;
+}
